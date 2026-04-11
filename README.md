@@ -167,10 +167,13 @@ MoM Growth
 
 📷 Dashboard Preview
 Sales Brand Performance Dashboard
-https://github.com/suwarnawaw/-Sales-Insight-Brand-Performance-Dashboard-Microsoft-Fabric-Power-BI-/blob/main/Sales%20Dashboard%20Executive%20Summary.png
+<img width="1362" height="747" alt="Sales Dashboard Executive Summary" src="https://github.com/user-attachments/assets/0d6563fe-cdf2-41d7-b2b8-878f1e6b93a3" />
+
 
 Performance Analysis Dashboard
-https://github.com/suwarnawaw/-Sales-Insight-Brand-Performance-Dashboard-Microsoft-Fabric-Power-BI-/blob/main/Sales%20Dashboard%20Performance.png
+<img width="1333" height="786" alt="Sales Dashboard Performance" src="https://github.com/user-attachments/assets/0243f22d-616e-42bf-a876-769ab645ce15" />
+
+
 🎯 Business Use Cases
 This dashboard can be used by:
 Sales Teams
